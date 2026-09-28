@@ -29,7 +29,7 @@ const members: any = {
     email: "ianpitogoos@gmail.com",
     address: "purok 3 sunflower, tayud,Consolacion Cebu",
     hobbies: "repairing basic pc parts, sounds tech, driving truck simulator, playing triple A games ",
-    favorite: "Pragmata",
+    favorite: "Pragmata,Forza Horizon 6",
   },
 
   "3": {
