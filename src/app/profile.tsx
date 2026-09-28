@@ -24,12 +24,12 @@ const members: any = {
     name: "Ian Pitigo",
     role: "Member",
     age: "23",
-    birthday: "February 2, 2006",
+    birthday: "September 29, 2003",
     course: "BS Information Technology",
     email: "ianpitogoos@gmail.com",
-    address: "Consolacion",
-    hobbies: "Watchung Hentai",
-    favorite: "Hentai",
+    address: "purok 3 sunflower, tayud,Consolacion Cebu",
+    hobbies: "repairing basic pc parts, sounds tech, driving truck simulator, playing triple A games ",
+    favorite: "Pragmata",
   },
 
   "3": {
