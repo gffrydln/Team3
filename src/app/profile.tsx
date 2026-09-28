@@ -21,15 +21,15 @@ const members: any = {
   },
 
   "2": {
-    name: "MEMBER 1",
+    name: "Ian Pitigo",
     role: "Member",
-    age: "20",
+    age: "23",
     birthday: "February 2, 2006",
     course: "BS Information Technology",
-    email: "member1@email.com",
-    address: "Member 1 Address",
-    hobbies: "Gaming, Music",
-    favorite: "Gaming",
+    email: "ianpitogoos@gmail.com",
+    address: "Consolacion",
+    hobbies: "Watchung Hentai",
+    favorite: "Hentai",
   },
 
   "3": {
