@@ -44,18 +44,18 @@ const members: any = {
     favorite: "Basketball",
   },
 
-  "4": {
-    name: "MEMBER 3",
+ "4": {
+    name: "Geoffrey Delan",
     role: "Member",
     age: "21",
-    birthday: "April 4, 2005",
+    birthday: "January 19, 2005",
     course: "BS Information Technology",
-    email: "member3@email.com",
-    address: "Member 3 Address",
-    hobbies: "Coding, Movies",
-    favorite: "Movies",
+    email: "gffrydln@gmail.com",
+    address: "Luyang, Carmen, Cebu",
+    hobbies: "Video Games, Rocket Sport",
+    favorite: "Rocket Sport",
   },
-
+    
   "5": {
     name: "MEMBER 4",
     role: "Member",
