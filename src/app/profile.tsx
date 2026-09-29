@@ -158,7 +158,6 @@ export default function Profile() {
           <TouchableOpacity
             style={styles.customScreenButton}
             onPress={() => router.push("/member4")}
-          >
             <Text style={styles.customScreenText}>
               ✨ View Geoffrey's Portfolio Screen →
             </Text>
